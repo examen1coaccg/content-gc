@@ -2,7 +2,7 @@
 
 Estamos muy entusiasmados de que desees colaborar en las mejoras de este proyecto. 
 
-## ¿Cómo colaborar?**
+## ¿Cómo colaborar?
 Las contribuciones de mejora o corrección de errores puedes mandarlas por vía Pull Request (PR). Los resposables del mantenimiento del repositorio se encargarán de dar seguimiento a tu solicitud.
 
 

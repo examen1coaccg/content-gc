@@ -9,8 +9,11 @@ Las contribuciones de mejora o corrección de errores puedes mandarlas por vía 
 ## ¿Cómo hacer un Pull Request (PR)?
 
 1. Realiza un fork del repositorio
-2. Realiza las modificaciones que desees. Asegurate de hacer pruebas suficientes.
-3. Envía un PR con la información detallada de tu propuesta
+2. Puedes crea una rama (opciona)
+3. Realiza las modificaciones que desees. Asegurate de hacer pruebas suficientes.
+4. Envía un PR con la información detallada de tu propuesta
 
+**Sugerencias**
+Sigue las buens prácticas para la realización de los commits: [](https://midu.dev/buenas-practicas-escribir-commits-git/)
 
 ¡Agradecemnos mucho tus contribuciones!

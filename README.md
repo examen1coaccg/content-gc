@@ -19,11 +19,11 @@ python gc-content.py
 
 ## Estructura del repositorio
 
-/docs: documentación del proyecto, como manuales de usuario
-/lib: librerísa ocupadas para el desarrollo del software
-/src: Scripts-código fuentes
-/results: Ejemplo de resultados que validen el funcionamiento del software
-/test: Casos de prueba del software
+/docs: documentación del proyecto, como manuales de usuario  
+/lib: librerísa ocupadas para el desarrollo del software  
+/src: Scripts-código fuente  
+/results: Ejemplo de resultados que validen el funcionamiento del software  
+/test: Casos de prueba del software  
 
 ## Contacto
 Para mayor información del contenido del repositorio puedes escribir a la dirección: examen1@lcg.unam.mx

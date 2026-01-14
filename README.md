@@ -20,7 +20,7 @@ python gc-content.py
 ## Estructura del repositorio
 
 /docs: documentación del proyecto, como manuales de usuario  
-/lib: librerísa ocupadas para el desarrollo del software  
+/lib: librerías ocupadas para el desarrollo del software  
 /src: Scripts-código fuente  
 /results: Ejemplo de resultados que validen el funcionamiento del software  
 /test: Casos de prueba del software  

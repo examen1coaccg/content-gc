@@ -1,0 +1,37 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "author": [
+        {
+            "affiliation": {
+                "@id": "https://orcid.org/0000-0002-4709-2008",
+                "@type": "Organization"
+            },
+            "email": "examen1@lcg.unam.mx",
+            "familyName": "Shirley",
+            "givenName": "Alquicira",
+            "@type": "Person"
+        },
+        {
+            "endDate": "2026-12-31",
+            "roleName": "Software",
+            "startDate": "2026-01-13",
+            "@type": "Role"
+        }
+    ],
+    "codeRepository": "https://github.com/examen1coaccg/content-gc",
+    "dateModified": "2026-01-14",
+    "description": "Este repositorio está enfocado al desarrollo de una herramienta que permita calcular y visualizar el contenido de Guanina-Citosina de secuencias genómicas.",
+    "identifier": "10.5281/zenodo.18247946",
+    "keywords": [
+        "genomics"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "gc-content",
+    "programmingLanguage": [
+        "Python3",
+        "R"
+    ],
+    "version": "1.0.0",
+    "issueTracker": "https://github.com/examen1coaccg/content-gc/issues",
+    "@type": "SoftwareSourceCode"
+}
